@@ -1,7 +1,8 @@
 <h1 align="center">Integrando uma ferramenta IDE (Visual Studio Code), para controlar o versionamento de uma pequena aplicação Java</h1>
 
-Preencher nesse local com sua resposta.
-Primeira Parte
+
+
+
 I)	Download do Git                   
 
 
