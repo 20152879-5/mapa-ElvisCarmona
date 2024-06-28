@@ -59,39 +59,7 @@ B)	Execução de operações de versionamento:
 3-	Merge com a Branch principal.
 
 
-C)	Comprovação das atividades realizadas:
 
-1-	Registre o seu passo a passo, se possível com prints da tela;
-Feito
-2-	Comente cada saída do código e consolide todas as imagens e registros em um arquivo e realize o upload;
-Feito
-3-	Destaque o resultado final do repositório no Github
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![image](https://github.com/20152879-5/mapa-ElvisCarmona/assets/152211809/8d0c5f7a-28ba-48f5-8e11-d76567fca7c5)
 
 
 
